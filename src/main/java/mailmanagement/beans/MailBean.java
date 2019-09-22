@@ -10,7 +10,7 @@ package mailmanagement.beans;
  * @author Afgan Rasulov
  */
 public final class MailBean {
-
+// salam
     private String subject;
     private String message;
     private String to;
